@@ -1,0 +1,2 @@
+# Kalutstyle
+Constant Learning
